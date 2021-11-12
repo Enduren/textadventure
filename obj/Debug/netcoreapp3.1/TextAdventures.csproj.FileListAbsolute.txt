@@ -1,0 +1,14 @@
+C:\Users\dtenn\source\repos\TextAdventures\TextAdventures\bin\Debug\netcoreapp3.1\TextAdventures.exe
+C:\Users\dtenn\source\repos\TextAdventures\TextAdventures\bin\Debug\netcoreapp3.1\TextAdventures.deps.json
+C:\Users\dtenn\source\repos\TextAdventures\TextAdventures\bin\Debug\netcoreapp3.1\TextAdventures.runtimeconfig.json
+C:\Users\dtenn\source\repos\TextAdventures\TextAdventures\bin\Debug\netcoreapp3.1\TextAdventures.runtimeconfig.dev.json
+C:\Users\dtenn\source\repos\TextAdventures\TextAdventures\bin\Debug\netcoreapp3.1\TextAdventures.dll
+C:\Users\dtenn\source\repos\TextAdventures\TextAdventures\bin\Debug\netcoreapp3.1\TextAdventures.pdb
+C:\Users\dtenn\source\repos\TextAdventures\TextAdventures\obj\Debug\netcoreapp3.1\TextAdventures.csproj.AssemblyReference.cache
+C:\Users\dtenn\source\repos\TextAdventures\TextAdventures\obj\Debug\netcoreapp3.1\TextAdventures.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dtenn\source\repos\TextAdventures\TextAdventures\obj\Debug\netcoreapp3.1\TextAdventures.AssemblyInfoInputs.cache
+C:\Users\dtenn\source\repos\TextAdventures\TextAdventures\obj\Debug\netcoreapp3.1\TextAdventures.AssemblyInfo.cs
+C:\Users\dtenn\source\repos\TextAdventures\TextAdventures\obj\Debug\netcoreapp3.1\TextAdventures.csproj.CoreCompileInputs.cache
+C:\Users\dtenn\source\repos\TextAdventures\TextAdventures\obj\Debug\netcoreapp3.1\TextAdventures.dll
+C:\Users\dtenn\source\repos\TextAdventures\TextAdventures\obj\Debug\netcoreapp3.1\TextAdventures.pdb
+C:\Users\dtenn\source\repos\TextAdventures\TextAdventures\obj\Debug\netcoreapp3.1\TextAdventures.genruntimeconfig.cache
